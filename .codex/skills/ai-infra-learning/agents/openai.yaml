@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Infra Learning"
+  short_description: "Project-only AI Infra study workflow"
+  default_prompt: "Use $ai-infra-learning to continue my AI Infra study in this repository."
